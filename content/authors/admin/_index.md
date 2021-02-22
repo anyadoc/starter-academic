@@ -11,10 +11,10 @@ role: Disease Ecologist & Modeler
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Emory University
-  url: https://www.stanford.edu/
+  url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wildlife disease ecology, disease modeling and wildlife medicine.
 
 # Interests to show in About widget
 interests:
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
