@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+<!--StartFragment-->
+
+Aniruddha Belsare is a disease ecologist with a background in veterinary medicine, pathogen modeling, and conservation research. He uses an interdisciplinary approach that incorporates ecologic, epidemiologic and model-based investigations to understand how pathogens spread through, persist in, and impact host populations. One of the main objectives of Aniruddha’s research is to translate insights gained from an analytical approach into actionable outcomes for managers and policymakers.
+
+<!--EndFragment-->
