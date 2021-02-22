@@ -29,8 +29,6 @@ education:
   - course: PhD in Wildlife Science (with a focus on Disease Ecology)
     institution: University of Columbia, Missouri
     year: 2013
-
-University of Missouri
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
