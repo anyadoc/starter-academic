@@ -19,7 +19,7 @@ feature:
 - description: 
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Shiny
 - description: 
   #icon: chart-line
   #icon_pack: fas
