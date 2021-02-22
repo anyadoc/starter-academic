@@ -41,7 +41,7 @@ experience:
     location: East Lansing, Michigan
     date_start: '2019-03-18'
     date_end: '2020-01-05'
-    description: Developed new, high-level quantitative tools that informed wildlife disease management in Michigan and elsewhere. Specific focus was on chronic wasting disease    (CWD), an emerging disease of white-tailed deer. E.g.  https://rpubs.com/anyadoc/OvCWD_APR 
+    description: Developed new, high-level quantitative tools that informed wildlife disease management in Michigan and elsewhere. Specific focus was on chronic wasting disease  (CWD), an emerging disease of white-tailed deer. E.g.  https://rpubs.com/anyadoc/OvCWD_APR 
     
   - title: Postdoctoral Fellow
     company: Center for Modeling Complex Interactions, University of Idaho
@@ -62,5 +62,5 @@ experience:
     location: Columbia, Missouri
     date_start: '2014-05-12'
     date_end: '2017-06-26'
-    description: Analysis of wildlife diseases in the state of Missouri. Specific focus on CWD in white-tailed deer. Developed a model-based framework to support                     surveillance and management of CWD.
+    description: Analysis of wildlife diseases in the state of Missouri. Specific focus on CWD in white-tailed deer. Developed a model-based framework to support                surveillance and management of CWD.
 ---
