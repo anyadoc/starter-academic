@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computational Ecologist
-    company: Civitello Lab, Department of Biology, Emory University
-    company_url: 'https://scholarblogs.emory.edu/civitello/'
-    location: Atlanta, Georgia
-    date_start: '2021-01-06'
-    date_end: 'current'
+  #- title: Computational Ecologist
+    #company: Civitello Lab, Department of Biology, Emory University
+    #company_url: 'https://scholarblogs.emory.edu/civitello/'
+    #location: Atlanta, Georgia
+    #date_start: '2021-01-06'
+    #date_end: 'current'
     #description: |2-
         #Responsibilities include:
         
