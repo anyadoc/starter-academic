@@ -22,24 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Computational Ecologist
+    company: Civitello Lab, Department of Biology, Emory University
+    company_url: 'https://scholarblogs.emory.edu/civitello/'
+    location: Atlanta, Georgia
+    date_start: '2021-01-06'
+    date_end: 'current'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing individual-based models of complex host-pathogen systems
+        * Mentoring
+        * Informing disease management
         
-  - title: Professor
-    company: University X
+  - title: Research Associate
+    company: Boone & Crockett Quantitative Wildlife Center, Fisheries & Wildlife, Michigan State University
+    company_url: 'http://www.bcqwc.org'
+    location: East Lansing, Michigan
+    date_start: '2019-03-18'
+    date_end: '2020-01-05'
+    description: Developed new, high-level quantitative tools that informed wildlife disease management in Michigan and elsewhere. Specific focus was on chronic wasting disease    (CWD), an emerging disease of white-tailed deer. E.g.  https://rpubs.com/anyadoc/OvCWD_APR 
+    
+  - title: Postdoctoral Fellow
+    company: Center for Modeling Complex Interactions, University of Idaho
+    company_url: 'https://imci.uidaho.edu/'
+    location: Moscow, Idaho
+    date_start: '2017-06-27'
+    date_end: '2019-03-14'
+    description: |2-
+        Responsibilities:
+        
+        * Leader, OneHealth Working Group
+        * Disease Modeling: Bighorn sheep pneumonia
+        * Disease modeling: Canine rabies
+    
+  - title: Postdoctoral Fellow
+    company: University of Missouri
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Columbia, Missouri
+    date_start: '2014-05-12'
+    date_end: '2017-06-26'
+    description: Analysis of wildlife diseases in the state of Missouri. Specific focus on CWD in white-tailed deer. Developed a model-based framework to support                     surveillance and management of CWD.
 ---
