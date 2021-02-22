@@ -18,16 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Wildlife Disease Ecology
+- One Health
+- Disease Modeling
+- Rabies
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Wildlife Science (with a focus on Disease Ecology)
+    institution: University of Columbia, Missouri
+    year: 2013
+
+University of Missouri
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -70,8 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aniruddha Belsare is a disease ecologist with a background in veterinary medicine, pathogen modeling, and conservation research. He uses an interdisciplinary approach that incorporates ecologic, epidemiologic and model-based investigations to understand how pathogens spread through, persist in, and impact host populations. One of the main objectives of Aniruddha’s research is to translate insights gained from an analytical approach into actionable outcomes for managers and policymakers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
