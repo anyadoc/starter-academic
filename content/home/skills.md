@@ -17,9 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: r-project
-  icon_pack: fab
+  #icon: r-project
+  #icon_pack: fab
+  name: R
+- description: 
+  #icon: r-project
+  #icon_pack: fab
   name: Shiny
+- description: 
+  #icon: r-project
+  #icon_pack: fab
+  name: Statistics
 - description: 
   #icon: chart-line
   #icon_pack: fas
