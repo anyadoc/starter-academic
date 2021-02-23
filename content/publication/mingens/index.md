@@ -3,7 +3,7 @@ title = "Geographic distribution records of Macracanthorhynchus ingens (Archiaca
 date = 2017-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["DJ Richardson", "A Leveille", "**AV Belsare**", "HS Al-Warid", "ME Gompper"]
+authors = ["DJ Richardson", "A Leveille", "AV Belsare", "HS Al-Warid", "ME Gompper"]
 
 # Publication type.
 # Legend:
