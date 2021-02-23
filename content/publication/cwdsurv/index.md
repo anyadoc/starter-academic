@@ -3,7 +3,7 @@ title = "An agent-based framework for improving wildlife disease surveillance: A
 date = 2018-11-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**AV Belsare**", "ME Gompper", "B Keller", "J Sumners", "L Hansen", "J Millspaugh"]
+authors = ["AV Belsare", "ME Gompper", "B Keller", "J Sumners", "L Hansen", "J Millspaugh"]
 
 # Publication type.
 # Legend:
