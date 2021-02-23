@@ -3,7 +3,7 @@ title = "Epidemiology of viral pathogens of free-ranging dogs and Indian foxes i
 date = 2014-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**AV Belsare**", "AT Vanak", "ME Gompper"]
+authors = ["AV Belsare", "AT Vanak", "ME Gompper"]
 
 # Publication type.
 # Legend:
