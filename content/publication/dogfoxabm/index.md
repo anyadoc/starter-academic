@@ -3,7 +3,7 @@ title = "A model-based approach for investigation and mitigation of disease spil
 date = 2015-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**AV Belsare**", "ME Gompper"]
+authors = ["AV Belsare", "ME Gompper"]
 
 # Publication type.
 # Legend:
