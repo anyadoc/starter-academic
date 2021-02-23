@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Computational Ecologist
-    company: Civitello Lab, Department of Biology, Emory University
+    company: 'Civitello Lab, Department of Biology, Emory University'
     #company_url: 'https://scholarblogs.emory.edu/civitello/'
     #location: Atlanta, Georgia
     #date_start: '2021-01-06'
