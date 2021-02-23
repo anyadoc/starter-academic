@@ -1,6 +1,6 @@
 +++
 title = "An agent-based framework for improving wildlife disease surveillance: A case study of chronic wasting disease in Missouri white-tailed deer"
-date = 2018-11-29T00:00:00
+date = 2020-01-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["AV Belsare", "ME Gompper", "B Keller", "J Sumners", "L Hansen", "J Millspaugh"]
@@ -35,14 +35,14 @@ projects = ["chronic wasting disease"]
 
 # Links (optional).
 #url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2018/11/29/478610.full.pdf"
-url_preprint = "https://www.biorxiv.org/content/early/2019/03/29/478610.full.pdf"
+#url_preprint = "https://www.biorxiv.org/content/early/2019/03/29/478610.full.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "https://pubmed.ncbi.nlm.nih.gov/32189826/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
