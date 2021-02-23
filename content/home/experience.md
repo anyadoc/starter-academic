@@ -25,15 +25,15 @@ experience:
   - title: Computational Ecologist
     company: Civitello Lab at Emory University
     company_url: 'https://scholarblogs.emory.edu/civitello/'
-    location: Atlanta, Georgia
+    location: Atlanta GA
     date_start: '2021-01-06'
     date_end: 'current'
-    #description: |2-
-        #Responsibilities include:
+    description: |2-
+        Responsibilities include:
         
-        #* Developing individual-based models of complex host-pathogen systems
-        #* Mentoring
-        #* Informing disease management
+        * Developing individual-based models of complex host-pathogen systems
+        * Mentoring
+        * Informing disease management
         
   #- title: Research Associate
     #company: Boone & Crockett Quantitative Wildlife Center, Fisheries & Wildlife, Michigan State University
