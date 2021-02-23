@@ -2,7 +2,13 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
+
+#
 active: false
+
+#
+draft: true
+
 # This file represents a page section.
 headless: true
 
