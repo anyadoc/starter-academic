@@ -3,7 +3,7 @@ title = "OvCWD: An agent‐based modeling framework for informing chronic wastin
 date = 2020-07-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**AV Belsare**", "CM Stewart"]
+authors = ["AV Belsare", "CM Stewart"]
 
 # Publication type.
 # Legend:
