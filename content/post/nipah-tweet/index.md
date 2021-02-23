@@ -7,5 +7,5 @@ tags: []
 ---
 ## Detecting at least one infected individual in the population ##
 ```{r echo=FALSE}
-blogdown::shortcode('tweet', '1000900194932699136')
+{{< tweet 1000900194932699136 >}}
 ```
