@@ -3,7 +3,7 @@ title = "Human-leopard conflict management guidelines"
 date = 2007-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["VR Athreya", "**AV Belsare**"]
+authors = ["VR Athreya", "AV Belsare"]
 
 # Publication type.
 # Legend:
