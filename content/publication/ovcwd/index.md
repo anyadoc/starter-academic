@@ -27,7 +27,7 @@ abstract = "Wildlife disease management is vital but challenging due to complex 
 image_preview = "featured1.png"
 
 # Is this a selected publication? (true/false)
-featured: true
+#featured: true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
