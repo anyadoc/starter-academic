@@ -3,7 +3,7 @@ title = "Baylisascaris procyonis infection patterns in raccoons (Procyon lotor) 
 date = 2017-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["HS Al-Warid", "**AV Belsare**", "K Straka", "ME Gompper"]
+authors = ["HS Al-Warid", "AV Belsare", "K Straka", "ME Gompper"]
 
 # Publication type.
 # Legend:
