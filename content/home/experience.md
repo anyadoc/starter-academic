@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
   - title: Computational Ecologist
     company: Civitello Lab, Department of Biology, Emory University
-    #company_url: 'https://scholarblogs.emory.edu/civitello/'
-    #location: Atlanta, Georgia
+    company_url: 'https://scholarblogs.emory.edu/civitello/'
+    location: Atlanta, Georgia
     date_start: '2021-01-06'
-    #date_end: 'current'
+    date_end: 'current'
     #description: |2-
         #Responsibilities include:
         
