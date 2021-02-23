@@ -27,7 +27,7 @@ experience:
     company_url: 'https://scholarblogs.emory.edu/civitello/'
     location: Atlanta GA
     date_start: '2021-01-06'
-    #date_end: 'current'
+    date_end: 'current'
     #description: |2-
         #Responsibilities include:
         
