@@ -43,25 +43,25 @@ experience:
     date_end: '2020-01-05'
     description: Developed new, high-level quantitative tools that informed wildlife disease management in Michigan and elsewhere. Specific focus was on chronic wasting disease  (CWD), an emerging disease of white-tailed deer. E.g.  https://rpubs.com/anyadoc/OvCWD_APR 
     
-  #- title: Postdoctoral Fellow
-    #company: Center for Modeling Complex Interactions, University of Idaho
-    #company_url: 'https://imci.uidaho.edu/'
-    #location: Moscow, Idaho
-    #date_start: '2017-06-27'
-    #date_end: '2019-03-14'
-    #description: |2-
-        #Responsibilities:
+  - title: Postdoctoral Fellow
+    company: Center for Modeling Complex Interactions at University of Idaho
+    company_url: 'https://imci.uidaho.edu/'
+    location: Moscow ID
+    date_start: '2017-06-27'
+    date_end: '2019-03-14'
+    description: |2-
+        Responsibilities:
         
-        #* Leader, OneHealth Working Group
-        #* Disease Modeling: Bighorn sheep pneumonia
-        #* Disease modeling: Canine rabies
+        * Leader, OneHealth Working Group
+        * Disease Modeling: Bighorn sheep pneumonia
+        * Disease modeling: Canine rabies
     
-  #- title: Postdoctoral Fellow
-    #company: University of Missouri
+  - title: Postdoctoral Fellow
+    company: University of Missouri
     #company_url: ''
-    #location: Columbia, Missouri
-    #date_start: '2014-05-12'
-    #date_end: '2017-06-26'
-    #description: Analysis of wildlife diseases in the state of Missouri. Specific focus on CWD in white-tailed deer. Developed a model-based framework to support                #surveillance and management of CWD.
+    location: Columbia MO
+    date_start: '2014-05-12'
+    date_end: '2017-06-26'
+    description: Analysis of wildlife diseases in the state of Missouri. Specific focus on CWD in white-tailed deer. Developed a model-based framework to support                surveillance and management of CWD.
     
 ---
