@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Disease modeling and the COVID-19 pandemic.
-abstract: "For several decades now, mathematical models have played an important role in improving our understanding of infectious disease systems and thereby helped us mitigate public health, economic and conservation threats posed by such diseases. But the role of modeling really came to the fore during the current COVID-19 pandemic. From my perspective as a wildlife disease ecologist and a disease modeler, I will briefly discuss aspects of our response to COVID-19 pandemic that were truly 'unprecedented'. I will then talk about the lessons we have learned (hopefully!) and how this will impact our response to other (current, emerging, wildlife, zoonotic) disease threats"
+abstract: "For several decades now, mathematical models have played an important role in improving our understanding of infectious disease systems and thereby helped us mitigate public health, economic and conservation threats posed by such diseases. But the role of modeling really came to the fore during the current COVID-19 pandemic. From my perspective as a wildlife disease ecologist and a disease modeler, I will briefly discuss aspects of our response to COVID-19 pandemic that were truly 'unprecedented'. I will then talk about the lessons we have learned (hopefully!) and how this will impact our response to other (current, emerging, wildlife, zoonotic) disease threats."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,6 +56,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+#projects = []
 #- example
 ---
