@@ -1,6 +1,6 @@
 ---
 title: Disease Modeling in the Time of COVID-19 and Beyond
-
+draft: true
 event: Michigan State University Fisheries & Wildlife CLub
 #event_url: https://example.org
 
