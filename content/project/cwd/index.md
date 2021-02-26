@@ -5,7 +5,7 @@ summary: The CWD modeling project began in 2014 in collaboration Josh Millspaugh
 tags:
 - Disease modeling
 - Informed disease management
-- chronic wasting disease
+
 
 date: "2020-04-27T00:00:00Z"
 
