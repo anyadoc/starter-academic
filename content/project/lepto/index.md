@@ -1,6 +1,6 @@
 ---
 title: Multihost, multistrain Leptospira Dynamics
-summary: With Claudia Munoz-Zanzi (University of Minnesota), Meghan Mason (St. Catherine University), Matt Gompper (New Mexico State University). We are using an agent-based approach to simulate transmission dynamics of host-adapted Leptospira strains in a multi-host system. One of the main objectives of this model is to evaluate alternate interventions aimed at reducing human infection risk in small-scale communities like urban slums
+summary: With Claudia Munoz-Zanzi (University of Minnesota), Meghan Mason (St. Catherine University), Matt Gompper (New Mexico State University). We are using an agent-based approach to simulate transmission dynamics of host-adapted Leptospira strains in a multi-host system. One of the main objectives of this model is to evaluate alternate interventions aimed at reducing human infection risk in small-scale communities like urban slums.
 
 tags:
 - Disease ecology
