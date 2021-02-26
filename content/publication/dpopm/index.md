@@ -1,6 +1,5 @@
 ---
 title = "Modelling the challenges of managing free-ranging dog populations"
-date = 2020-11-02T00:05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
