@@ -1,6 +1,6 @@
 ---
 title: Chronic Wasting Disease Modeling Framework
-summary: The next frontier of CWD models
+summary: The CWD modeling project began in 2014 in collaboration Josh Millspaugh (University of Montana), Matt Gompper (University of Missouri, now New Mexico State University) and Missouri Department of Conservation. We developed an agent-based modeling framework for assessing the efficacy of harvest-based disease surveillance in white-tailed deer populations of Missouri. We also developed a spatially-explicit, agent-based model of chronic wasting disease transmission dynamics. This model is being used to assess the rate of CWD spread in Missouri, as well as to evaluate alternate management strategies to limit the spread of CWD. The CWD Modeling Framework was subsequently (2019-2021) adapted to simulate Michigan white-tailed deer populations and then applied to assess alternate harvest strategies for their impact on CWD spread. Currently, I am collaborating with Atle Mysterud (University of Oslo) and Hildegunn Viljugrein (Norwegian Veterinary Institute) to apply the modeling framework to reindeer populations, and we are evaluating surveillance and harvest strategies to better mitigate the threat of newly introduced CWD in the reindeer populations of Norway.
 
 tags:
 - Disease modeling
