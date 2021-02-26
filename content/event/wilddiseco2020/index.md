@@ -1,7 +1,7 @@
 ---
 title: Modeling Wildlife Disease Systems
 
-event: Guest lecture: FW463 Wildlife Disease Ecology
+event: Guest lecture FW463 Wildlife Disease Ecology
 #event_url: https://example.org
 
 location: NR223
