@@ -21,6 +21,7 @@ interests:
 - Wildlife Disease Ecology
 - One Health
 - Disease Modeling
+- Agent-based models
 - Rabies
 
 # Education to show in About widget
