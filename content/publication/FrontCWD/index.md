@@ -36,7 +36,7 @@ publication_short: In *Front Vet Sci*
 abstract: Continuing geographic spread of chronic wasting disease (CWD) poses a serious threat to the sustainable future of cervids and hunting in North America. Moreover, CWD has been detected in captive cervids in South Korea and, in recent years, in free-ranging reindeer in Europe (Norway). Management of this disease is limited by logistical, financial, and sociopolitical considerations, and current strategies primarily focus on reducing host densities through hunter harvest and targeted culling. The success of such strategies in mitigating the spread and prevalence of CWD only upon detection is questionable. Here, we propose a proactive approach that emphasizes pre-emptive management through purposeful integration of virtual experiments (simulating alternate interventions as model scenarios) with the aim of evaluating their effectiveness. Here, we have used a published agent-based model that links white-tailed deer demography and behavior with CWD transmission dynamics to first derive a CWD outbreak trajectory and then use the trajectory to highlight issues associated with different phases of the CWD outbreak (pre-establishment/transition/endemic). Specifically, we highlight the practical constraints on surveillance in the pre-establishment phase and recommend that agencies use a realistic detection threshold for their CWD surveillance programs. We further demonstrate that many disease introductions are "dead ends" not leading to a full epidemic due to high stochasticity and harvesting in the pre-establishment phase of CWD. Model evaluated pre-emptive (pre-detection) harvest strategies could increase the resilience of the deer population to CWD spread and establishment. We conclude it is important to adaptively position CWD management ahead of, rather than behind, the CWD front.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Our perspective on proactive wildlife disease management: a call for using a phase-specific CWD management strategies informed by an analytical approach.
 
 tags: []
 
@@ -79,15 +79,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-
