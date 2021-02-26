@@ -2,9 +2,9 @@
 title: Big horn sheep pneumonia Modeling Project
 summary: This project was supported by a Modeling Access Grant, Center for Modeling Complex Interactions, University of Idaho. I collaborated with Ryan Long (University of Idaho) to develop an agent-based model of bighorn sheep population dynamics. This model can be used to investigate pneumonia dynamics in bighorn sheep populations and guide research questions. The goal of this work was to support the Idaho Department of Fish and Game in developing locale-specific disease management strategies for bighorn sheep populations.
 tags:
-- agent-based modeling
-- disease ecology
-- informed disease management
+- Disease modeling
+- Disease ecology
+- Informed disease management
 
 date: "2018-08-09T00:00:00Z"
 
