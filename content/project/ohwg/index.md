@@ -4,6 +4,7 @@ summary: Given the interconnectedness of animal health, environmental health and
 
 tags:
 - One Health
+- Disease modeling
 
 date: "2018-09-06T00:00:00Z"
 
