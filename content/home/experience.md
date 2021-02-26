@@ -54,7 +54,7 @@ experience:
         
         * Leader, OneHealth Working Group
         * Disease Modeling: Bighorn sheep pneumonia
-        * Disease modeling: Canine rabies
+        * Disease Modeling: Canine rabies
     
   - title: Postdoctoral Fellow
     company: University of Missouri
