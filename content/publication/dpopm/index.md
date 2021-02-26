@@ -1,5 +1,5 @@
 ---
-title = "Modelling the challenges of managing free-ranging dog populations"
+title: "Modelling the challenges of managing free-ranging dog populations"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
