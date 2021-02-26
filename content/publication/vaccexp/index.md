@@ -62,5 +62,3 @@ highlight = true
 #image = "Bpro.jpg"
 #caption = "*Baylisascaris procyonis*:smile:"
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
