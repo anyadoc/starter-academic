@@ -40,7 +40,7 @@ experience:
     company_url: 'http://www.bcqwc.org'
     location: East Lansing, Michigan
     date_start: '2019-03-18'
-    date_end: '2020-01-05'
+    date_end: '2021-01-05'
     description: Developed new, high-level quantitative tools that informed wildlife disease management in Michigan and elsewhere. Specific focus was on chronic wasting disease  (CWD), an emerging disease of white-tailed deer. E.g.  https://rpubs.com/anyadoc/OvCWD_APR 
     
   - title: Postdoctoral Fellow
