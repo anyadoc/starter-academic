@@ -1,7 +1,7 @@
 ---
 title: Model-informed chronic wasting disease surveillance
 
-event: SOP4CWD: Surveillance Optimization Project for Chronic Wasting Disease
+event: SOP4CWD Surveillance Optimization Project for Chronic Wasting Disease
 #event_url: https://example.org
 
 location: Kellogg Conference Center
