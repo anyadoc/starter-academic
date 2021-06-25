@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computational Ecologist
+  - title: Associate Academic Research Scientist
     company: Civitello Lab at Emory University
     company_url: 'https://scholarblogs.emory.edu/civitello/'
-    location: Atlanta GA
+    location: Atlanta, GA
     date_start: '2021-01-06'
     date_end: ''
     description: |2-
@@ -35,6 +35,13 @@ experience:
         * Mentoring
         * Informing disease management
         
+  - title: Faculty Affiliate
+    company: Wildlife Biology Program, University of Montana
+    location: Missoula, MT
+    date_start: '2021-05-12'
+    date_end: ''
+    description: Chronic wasting disease (CWD) modeling research in collaboration with University of Montana faculty and State Wildlife Agencies.
+    
   - title: Research Associate
     company: Boone & Crockett Quantitative Wildlife Center at Michigan State University
     company_url: 'http://www.bcqwc.org'
