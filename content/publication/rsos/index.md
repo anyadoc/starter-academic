@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Royal Society Open Science*
 publication_short: In *R. Soc. Open Sci*
 
-abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
