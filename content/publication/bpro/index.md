@@ -29,9 +29,9 @@ publication_short: In *Helminthologia*
 
 # Abstract and optional shortened version.
 
-abstract: Baylisascaris procyonis is a helminth parasite of raccoons Procyon lotor and represents a health concern in paratenic hosts, including humans and diverse domestic and wildlife species. In North America the helminth is expanding its geographic range. To better understand patterns of infection in the Ozark region of the USA, raccoons (n:61) were collected in 2013-2014 from five counties in Missouri and Arkansas, USA and necropsied. We documented B. procyonis in all survyed locations. The overall prevalence of B. procyonis was 44.3% (95% CI: 31.9 - 57.4) and was significantly higher in females than males. There were also significant differences in prevalence among raccoons sampled north and south of the Missouri River. Mean intensity was 9.9 (CI: 5.44 - 17.22), and parasite were highly aggregated among hosts such that approximately 20% of hosts harbor 90% of parasites. These levels of parasitism indicate that B. procyonis is common in the region and its impacts on paratenic hosts could be qualitatively similar to effects observed in other localities.
+abstract: 
 
-summary: We describe the patterns of infection of the roundworm Baylisascaris procyonis from raccoons Procyon lotor collected in 2013-2014 from five counties in Missouri and Arkansas.
+summary: 
 
 tags: []
 
