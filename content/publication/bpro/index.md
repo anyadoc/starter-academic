@@ -38,10 +38,10 @@ publication_short: In *Helminthologia*
 #featured: false
 
 # Featured image thumbnail (optional)
-#image_preview = "featured.jpg"
+#image_preview: featured.jpg
 
 # Is this a selected publication? (true/false)
-#selected = false
+#selected: false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
