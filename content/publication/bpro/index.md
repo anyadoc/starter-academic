@@ -69,7 +69,7 @@ url_pdf: 'https://www.degruyter.com/downloadpdf/j/helm.2017.54.issue-2/helm-2017
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+#[header]
 image: 'bpro.jpg'
 #caption = "*Baylisascaris procyonis*"
 ---
