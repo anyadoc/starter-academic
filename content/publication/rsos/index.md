@@ -1,4 +1,3 @@
-
 ---
 title: "Harvest strategies for the elimination of low prevalence wildlife diseases"
 
@@ -11,7 +10,6 @@ authors:
 - C Rolandsen
 - admin
  
-
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
@@ -78,6 +76,7 @@ url_video: ''
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
+
 ---
 
 {{% callout note %}}
