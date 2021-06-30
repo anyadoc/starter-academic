@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: In *Royal Society Open Science*
 publication_short: In *R. Soc. Open Sci*
 
-abstract:
+abstract: The intensive harvesting of hosts is often the only practicable strategy for controlling emerging wildlife diseases. Several harvesting approaches have been explored theoretically with the objective of lowering transmission rates, decreasing the transmission period or specifically targeting spatial disease clusters or high-risk demographic groups.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
