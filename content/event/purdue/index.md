@@ -1,5 +1,5 @@
 ---
-title: Agents of change Wildlife disease investigations using individual-based models
+title: Agents of change Wildlife disease investigations using individual based models
 
 event: Purdue University Forestry and Natural Resources Seminar Spring 2022
 #event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '47907'
   country: United States
 
-summary: Individual-based models to explore complex wildlife disease systems.
+summary: Individual based models to explore complex wildlife disease systems.
 abstract: "Wildlife disease systems are inherently complex, and our understanding of such systems is fraught with uncertainties. An effective approach to addressing uncertainties while dealing with such complex systems is through the integration of formal models with management and related policy decision making. Using examples from my ongoing research, I will discuss how virtual explorations using pragmatic agent-based models can enhance scientific understanding of complex wildlife disease systems. I will also discuss how model-based explorations can be used for evaluating management interventions, thereby informing the design of rational and defensible disease management strategies."
 
 # Talk start and end times.
