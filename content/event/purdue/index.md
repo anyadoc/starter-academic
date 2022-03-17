@@ -1,7 +1,7 @@
 ---
 title: Agents of change Wildlife disease investigations using individual-based models
 
-event: Purdue University Forestry & Natural Resources Seminar Spring 2022
+event: Purdue University Forestry and Natural Resources Seminar Spring 2022
 #event_url: https://example.org
 
 location: In person
