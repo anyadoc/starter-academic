@@ -32,8 +32,8 @@ experience:
         Responsibilities include:
         
         * Developing individual-based models of complex host-pathogen systems
-        * Mentoring
-        * Informing disease management
+        * Mentoring students
+        * Informing wildlife disease management programs
         
   - title: Faculty Affiliate
     company: Wildlife Biology Program, University of Montana
