@@ -45,3 +45,7 @@ What is needed is a strategy that will ensure  efficient allocation of resources
 Central  Hypothesis:  Our  scientific  hypothesis  is  that  rabies  arrives  recurrently  in  rural  dog  populations  through  stepping-stone  dispersal  originating  in  urban  populations  where  the  disease  is endemic.  Because  dog  population  size  is  large  in urban  areas  and  small  in  rural  villages,  we  also  hypothesize  that  stochasticity  is important in  persistence  (or  lack  thereof).
 
 Using whole genome sequencing of rabies virus isolates, we hope to elucidate  population  structure  and  dispersal  patterns  of  rabies  virus  along  urban-rural gradient. Our field-based research will investigate dog demography using mark-resight techniques. We are developing epidemiological models  of  rabies  dynamics to  understand  persistence  and  transmission,  and  to  compare  interventions. The  models are being used to compare  alternative  interventions: where  and  when  should we  vaccinate,  deploy  animal  birth  control,  promote  garbage  management,  and  focus  monitoring. We  will leverage  these  results  in  a  larger  proposal  where  we  will  scale up  to  the  national  level.
+
+Free-roaming dog population management is an important component of human rabies elimination efforts: https://avbelsare.netlify.app/publication/dpopm/
+
+Free-roaming dogs are also responsible for serious and fatal attacks on humans. Here's a link to published reports from India in 2022: https://anyadoc.github.io/FRDattacks-India/
