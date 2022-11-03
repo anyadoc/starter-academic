@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Academic Research Scientist
-    company: Civitello Lab at Emory University
+    company: Civitello Disease Ecology Lab at Emory University
     company_url: 'https://scholarblogs.emory.edu/civitello/'
     location: Atlanta, GA
     date_start: '2021-01-06'
@@ -32,7 +32,6 @@ experience:
         Responsibilities include:
         
         * Developing individual-based models of complex host-pathogen systems
-        * Mentoring students
         * Informing wildlife disease management programs
         
   - title: Faculty Affiliate
