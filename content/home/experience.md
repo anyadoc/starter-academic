@@ -38,7 +38,7 @@ experience:
     company: Wildlife Biology Program, University of Montana
     location: Missoula, MT
     date_start: '2021-05-12'
-    date_end: ''
+    date_end: '2022-05-01'
     description: Chronic wasting disease (CWD) modeling research in collaboration with University of Montana faculty and State Wildlife Agencies.
     
   - title: Research Associate
