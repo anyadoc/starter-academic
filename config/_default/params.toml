@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "abelsar@emory.edu"
+email = "abelsare@auburn.edu"
 phone = "573 808 42 87"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 ), 
-address = {street = "Emory University, Department of Biology, O. Wayne Rollins Research Center, 1510 Clifton Road NE450", city = "Atlanta", region = "GA", postcode = "30322", country = "United States", country_code = "US"}
+address = {street = "2345 CFWE Building, Auburn University,", city = "Auburn", region = "AL", postcode = "36849", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.796463", longitude = "-84.324373"}
+coordinates = {latitude = "32.5948", longitude = "-85.4879"}
 
 # Directions for visitors to locate you.
 directions = "Email for appointment"
