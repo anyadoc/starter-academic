@@ -27,7 +27,7 @@ experience:
     company_url: 'https://cfwe.auburn.edu/'
     location: Auburn, AL
     date_start: '2023-02-01'
-    date_end" ''
+    date_end: ''
     description:
     
     
