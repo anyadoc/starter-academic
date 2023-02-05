@@ -6,12 +6,12 @@ title: Aniruddha Belsare
 superuser: true
 
 # Role/position/tagline
-role: Disease Ecologist & Modeler
+role: Assistant Professor of Disease Ecology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Emory University
-  url: https://www.emory.edu/
+- name: Auburn University
+  url: https://cfwe.auburn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife disease ecology, disease modeling and wildlife medicine.
