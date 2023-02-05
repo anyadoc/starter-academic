@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor of Disease Ecology
+    company: Auburn University College of Forestry, Wildlife & Environment and College of Veterinary Medicine
+    company_url: 'https://cfwe.auburn.edu/'
+    location: Auburn, AL
+    date_start: '2023-02-01'
+    date_end" ''
+    description:
+    
+    
   - title: Associate Academic Research Scientist
     company: Civitello Disease Ecology Lab at Emory University
     company_url: 'https://scholarblogs.emory.edu/civitello/'
     location: Atlanta, GA
     date_start: '2021-01-06'
-    date_end: ''
+    date_end: '2023-01-31'
     description: |2-
         Responsibilities include:
         
