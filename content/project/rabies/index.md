@@ -49,3 +49,5 @@ Using whole genome sequencing of rabies virus isolates, we hope to elucidate  po
 Free-roaming dog population management is an important component of human rabies elimination efforts: https://avbelsare.netlify.app/publication/dpopm/
 
 Free-roaming dogs are also responsible for serious and fatal attacks on humans. Here's a link to published reports from India in 2022: https://anyadoc.github.io/FRDattacks-India/
+
+My interview on Think Bank: <iframe width="560" height="315" src="https://www.youtube.com/embed/O1hjmpMtzJQ?si=EEpdCSuVVdHhpuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
