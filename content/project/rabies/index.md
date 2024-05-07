@@ -26,7 +26,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url: https://anyadoc.shinyapps.io/ZeroRabiesINDIA/
+url: "https://anyadoc.shinyapps.io/ZeroRabiesINDIA/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
