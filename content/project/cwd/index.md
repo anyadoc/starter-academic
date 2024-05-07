@@ -35,10 +35,12 @@ url_video: ""
 #slides: example
 ---
 
-The agent-based modeling framework that I developed as a component of my postdoctoral research on chronic wasting disease (CWD) facilitates applied wildlife epidemiological research and is being used by several wildlife agencies as a decision support tool to guide their CWD management strategies. I have also developed and published user-friendly apps to communicate nuanced and complex disease management issues to stakeholders (e.g., https://rpubs.com/anyadoc/OvCWD_APR ). I am now using this modeling framework to investigate ecological and evolutionary consequences of SARS-CoV-2 transmission in white-tailed deer (funded by the MP3 grant, Emory University).
+The agent-based modeling framework that I developed as a component of my postdoctoral research on chronic wasting disease (CWD) facilitates applied wildlife epidemiological research and is being used by several wildlife agencies as a decision support tool to guide their CWD management strategies. I have also developed and published user-friendly apps to communicate nuanced and complex disease management issues to stakeholders (e.g., https://rpubs.com/anyadoc/OvCWD_APR ). I am now using this modeling framework to investigate ecological and evolutionary consequences of SARS-CoV-2 transmission in white-tailed deer.
 
 Our recent papers can be accessed here: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12017
 https://www.frontiersin.org/articles/10.3389/fvets.2020.608235/full
 
 Promoting solutions: Auburn professor drives disease management in deer populations 
 https://wire.auburn.edu/content/ocm/2023/11/131102-belsare.php
+
+_Ov_CWD Training Workshop: <iframe width="560" height="315" src="https://www.youtube.com/embed/Yb5RtL16rOk?si=hql90TLm4Oh2a2gF&amp;start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
