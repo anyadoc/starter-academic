@@ -22,7 +22,7 @@ links:
   #icon_pack: fab
   #name: Follow
   #url: https://twitter.com/georgecushen
-url_code: "https://anyadoc.shinyapps.io/ZeroRabiesINDIA/"
+url_app: "https://anyadoc.shinyapps.io/ZeroRabiesINDIA/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
