@@ -42,7 +42,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=JLpw8Z7omSU"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,5 +59,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 #projects = []
 #- example
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JLpw8Z7omSU?si=eIZV-edGrGNEc8Wt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
