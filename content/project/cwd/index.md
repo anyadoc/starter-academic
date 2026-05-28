@@ -44,3 +44,5 @@ Promoting solutions: Auburn professor drives disease management in deer populati
 https://wire.auburn.edu/content/ocm/2023/11/131102-belsare.php
 
 *Ov*CWD Training Workshop: <iframe width="560" height="315" src="https://www.youtube.com/embed/Yb5RtL16rOk?si=hql90TLm4Oh2a2gF&amp;start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Getting in Front of CWD: Natural Resources Wbinar Series, 26th February 2025. https://www.youtube.com/watch?v=jru0uouo2Ao
