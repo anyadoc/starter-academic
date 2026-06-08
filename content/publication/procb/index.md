@@ -7,7 +7,7 @@ title: "Reservoir hosts experiencing food stress alter transmission dynamics for
 authors:
 - JC Owen
 - H Landwerlen
-- AP DUPUIS
+- AP Dupuis
 - admin
 - D Sharma
 - S Wang
