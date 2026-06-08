@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor of Disease Ecology
-    company: Auburn University College of Forestry, Wildlife & Environment and College of Veterinary Medicine
+    company: Auburn University College of Forestry, Wildlife & Environment and Auburn University College of Veterinary Medicine
     company_url: 'https://cfwe.auburn.edu/'
     location: Auburn, AL
     date_start: '2023-02-01'
     date_end: ''
-    description:
+    description: Research focuses on disease systems that have conservation and/or human health implications. Teaching responsibilities: Disease Ecology, One Health Connections, Wildlife Rabies, Wildlife Diseases, Deer Population Modeling, Tools and Challenges for Modern Scientists
     
     
   - title: Associate Academic Research Scientist
@@ -38,7 +38,7 @@ experience:
     date_start: '2021-01-06'
     date_end: '2023-01-31'
     description: |2-
-        Responsibilities include:
+        Responsibilities:
         
         * Developing individual-based models of complex host-pathogen systems
         * Informing wildlife disease management programs
