@@ -28,7 +28,7 @@ experience:
     location: Auburn, AL
     date_start: '2023-02-01'
     date_end: ''
-    description: Research focuses on disease systems that have conservation and/or human health implications. Teaching responsibilities: Disease Ecology, One Health Connections, Wildlife Rabies, Wildlife Diseases, Deer Population Modeling, Tools and Challenges for Modern Scientists
+    description: Research focuses on disease systems that have conservation and/or human health implications.
     
     
   - title: Associate Academic Research Scientist
