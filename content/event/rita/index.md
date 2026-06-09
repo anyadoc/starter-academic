@@ -3,8 +3,8 @@ title: Sustainable and Equitable Strategies for Human Rabies Elimination
 
 draft: true
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: XXXV International Conference on Rabies In The Americas 2024
+event_url: https://rabiesintheamericas.com/conferences/
 
 location: Wowchemy HQ
 address:
