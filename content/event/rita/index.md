@@ -37,7 +37,7 @@ image:
   #focal_point: Right
 
 links:
-- icon: 
+#- icon: 
   #icon_pack: fab
   #name: Follow
   url: 
