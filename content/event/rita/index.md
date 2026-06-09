@@ -1,5 +1,5 @@
 ---
-title: Sustainable and Equitable Strategies for Human Rabies Elimination: The role of free- roaming dog population management in achieving the Zero by 30 goal
+title: Example Talk
 
 draft: true
 
