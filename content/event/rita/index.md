@@ -4,13 +4,13 @@ title: Sustainable and equitable strategies for human rabies elimination The rol
 event: XXXV International Conference on Rabies In The Americas 2024, Buenos Aires, Argentina
 event_url: https://rabiesintheamericas.com/conferences/
 
-location: Buenos Aires, Argentina
+location:
 address:
   street: 
-  city: 
+  city: Buenos Aires
   region: 
   postcode: 
-  country: 
+  country: Argentina
 
 summary: Scientific management of free-roaming dogs for eliminating human rabies deaths.
 abstract: "To achieve the global goal of "Zero by 2030" by eliminating human rabies deaths requires
