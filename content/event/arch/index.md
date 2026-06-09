@@ -1,5 +1,5 @@
 ---
-title: Ecology, epidemiology and model-based explorations: An analytical approach for investigating wildlife disease systems
+title: Ecology, epidemiology and model-based explorations An analytical approach for investigating wildlife disease systems
 
 draft: true
 
