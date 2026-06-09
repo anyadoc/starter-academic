@@ -36,8 +36,8 @@ image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   #focal_point: Right
 
-links:
-- icon: twitter
+#links:
+- icon: 
   #icon_pack: fab
   #name: Follow
   #url: https://twitter.com/georgecushen
@@ -58,8 +58,8 @@ url_video: "https://www.youtube.com/watch?v=aHd_HlFft6k"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- 
+#projects:
+
 ---
 
 {{% callout note %}}
