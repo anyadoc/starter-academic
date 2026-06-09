@@ -37,13 +37,13 @@ image:
   #focal_point: Right
 
 links:
-- #icon: 
+- icon: 
   #icon_pack: fab
   #name: Follow
   #url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
 url_video: "https://www.youtube.com/watch?v=aHd_HlFft6k"
 
 # Markdown Slides (optional).
