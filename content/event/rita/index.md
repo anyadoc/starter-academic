@@ -15,7 +15,7 @@ address:
   country: Argentina
 
 summary: Scientific management of free-roaming dog populations is vital for the Zero by 30 goal.
-abstract: "To achieve the global goal of Zero by 2030 by eliminating human rabies deaths requires an equitable strategy that focuses on regions where canine rabies is endemic and where free-roaming dog populations are high. Communities in these regions often face challenges related to healthcare access and rabies prevention efforts, making it essential to address these barriers for effective and sustainable outcomes. "
+abstract: "To achieve the global goal of Zero by 2030 by eliminating human rabies deaths requires an equitable strategy that focuses on regions where canine rabies is endemic and where free-roaming dog populations are high. Communities in these regions often face challenges related to healthcare access and rabies prevention efforts, making it essential to address these barriers for effective and sustainable outcomes. While mass dog vaccination and ensuring access to life-saving rabies biologics for dog-bite victims are essential strategies for reducing human rabies deaths, these alone are not enough to achieve the Zero by 30 goal. To be truly effective, the approach must be rational, sustainable, and most importantly, equitable. Effective control measures must focus on mass vaccination of owned dogs and sustainable, locally relevant solutions for managing free-roaming dogs. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
