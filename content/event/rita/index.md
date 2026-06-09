@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Sustainable and Equitable Strategies for Human Rabies Elimination
 
 draft: true
 
