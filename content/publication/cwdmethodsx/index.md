@@ -32,7 +32,8 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = cwd
+projects:
+- cwd
 
 # Links (optional).
 #url_pdf = "https://www.degruyter.com/downloadpdf/j/helm.2017.54.issue-2/helm-2017-0011/helm-2017-0011.pdf"
