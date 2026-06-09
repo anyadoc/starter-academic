@@ -40,7 +40,7 @@ links:
 #- icon: 
   #icon_pack: fab
   #name: Follow
-  url: 
+  #url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
