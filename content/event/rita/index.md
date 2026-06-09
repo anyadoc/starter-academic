@@ -1,5 +1,5 @@
 ---
-title: Sustainable and equitable strategies for human rabies elimination The role of free-roaming dog population management in achieving the Zero by 30 goal
+title:Sustainable and equitable strategies for human rabies elimination The role of free-roaming dog population management in achieving the Zero by 30 goal
 
 event: XXXV International Conference on Rabies In The Americas 2024, Buenos Aires, Argentina
 event_url: https://rabiesintheamericas.com/conferences/
