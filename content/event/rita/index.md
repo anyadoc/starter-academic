@@ -1,5 +1,5 @@
 ---
-title: Sustainable and Equitable Strategies for Human Rabies Elimination
+title: 
 event: XXXV International Conference on Rabies In The Americas 2024, Buenos Aires, Argentina
 event_url: https://rabiesintheamericas.com/conferences/
 
